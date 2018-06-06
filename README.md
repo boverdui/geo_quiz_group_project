@@ -1,6 +1,3 @@
-# Vex Yourself - Flag Quiz - Group Project
-Week 14 Group Project
-
 # Educational App
 
 The BBC are looking to improve their online offering of educational content by developing some interactive apps that display information in a fun and interesting way.
@@ -15,21 +12,11 @@ Your task is to make an MVP to put forward to them - this may only be for a smal
 - Display some information about a particular topic in an interesting way
 - Have some user interactivity using event listeners, e.g to move through different sections of content
 
-## How to run
+## Screenshots of the finished product
 
-To run our app you'll have to do the following:
+Group project with Rob Gathergood(rgathergood), Dan Peet (drp33), and Arthur Andreev (arthurandreev)
 
-- Clone this repo
-
-In your terminal run:
-
-- npm install
-- npm run build
-- npm run server:dev (separate tab)
-
-- Install mongodb
-- mongod (separate tab)
-
-Go to: localhost:3000
-
-Test your knowledge!
+![Alt text](screenshots/vex_yourself_1.jpg?raw=true)
+![Alt text](screenshots/vex_yourself_2.jpg?raw=true)
+![Alt text](screenshots/vex_yourself_3.jpg?raw=true)
+![Alt text](screenshots/vex_yourself_4.jpg?raw=true)
